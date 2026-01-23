@@ -14,11 +14,11 @@
 ---
 
 ## 🛠️ Technical Skills
-- **Languages:** Java, Python, SQL, JavaScript, Typescript
+- **Languages:**  C, Python,Java, SQL, JavaScript, Typescript
 - **Web Technologies:** HTML, CSS, React, Streamlit  
 - **Database:** MySQL  
 - **Tools:** Git, GitHub, VS Code  
-- **Concepts:** OOP, DBMS, DSA, Machine Learning  
+- **Concepts:** OOP, DBMS, DSA, Machine Learning, Computer Networks, operating system 
 
 ---
 
