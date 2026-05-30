@@ -5,57 +5,12 @@
 
 ---
 
-## 🚀 About Me
-- Passionate about software development and problem solving  
-- Interested in Java, Machine Learning & Full Stack Development  
-- Actively building projects to improve real-world skills  
-- Looking for internships and learning opportunities  
-
----
-
 ## 🛠️ Technical Skills
 - **Languages:**  C, Python,Java, SQL, JavaScript, Typescript
 - **Web Technologies:** HTML, CSS, React, Streamlit  
 - **Database:** MySQL  
 - **Tools:** Git, GitHub, VS Code  
 - **Concepts:** OOP, DBMS, DSA, Machine Learning, Computer Networks, operating system 
-
----
-
-## 📂 Projects
-### 🔹 Smart Personal Finance Manager
-- React-based expense tracking application
-- Add income and expenses
-- AI-based auto categorization
-- Data visualization using charts  
-- Budget analysis &  Savings insights
-- Interactive charts (Bar, Pie, Line)
-- LocalStorage persistence
-- Clean modern UI
-
-### 🔹 Emotion Detection System
-- Machine Learning project  
-- Built using Python & Streamlit  
-- Classifies emotions from text input and voice input
--  Detects 14 emotions
--   Confidence score
--   Deployed using Streamlit Cloud
--    Clean and interactive UI
-
-### 🔹 AI House Price Predictor
-
-- House price prediction using AI
-- Price range estimation
-- AI-generated reasoning
-- Modern UI using React + TypeScript
-- Secure API integration 
-- Google Gemini API
----
-
-## 📈 Currently Learning
-- Data Structures & Algorithms  
-- Java Full Stack Development  
-- Machine Learning & AI  
 
 ---
 
